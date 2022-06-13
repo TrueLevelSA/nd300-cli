@@ -1,0 +1,13 @@
+{
+  "use_gitignore": true,
+  "file_types": {
+    "go,mod": { "before_line": "// " },
+    "yml": { "before_line": "# " },
+    "md": {
+      "before_block": "<!--",
+      "before_line": "  ",
+      "after_block": "-->"
+    },
+    "licensesnip,sum,LICENSE,jsonc": { "enable": false }
+  }
+}
