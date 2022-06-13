@@ -6,12 +6,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.2] - 2022-06-13
+
+- Bump `nd300` to a valid `v0.0.1` version.
+
 ## [0.0.1] - 2022-06-13
 ### Added
 - Initial version with support for machine status, reset and single machine payout commands.
-- Basic logging of raw commands and statuses
-- Automatic detection of serial ports
+- Basic logging of raw commands and statuses.
+- Automatic detection of serial ports.
 
-[Unreleased]: https://gitlab.com/TrueLevel/swapbox/nd300cli/compare/v0.0.1...HEAD
+[Unreleased]: https://gitlab.com/TrueLevel/swapbox/nd300cli/compare/main...v0.0.2
+[0.0.2]: https://gitlab.com/TrueLevel/swapbox/nd300cli/compare/v0.0.2...v0.0.1
 [0.0.1]: https://gitlab.com/TrueLevel/swapbox/nd300cli/releases/tag/v0.0.1
 
